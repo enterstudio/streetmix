@@ -101,7 +101,7 @@
     "redux": "3.7.2",
     "request": "2.81.0",
     "requireindex": "1.1.0",
-    "sendgrid": "2.0.0",
+    "sendgrid": "3.0.0",
     "shifty": "2.1.1",
     "sprintf": "0.1.5",
     "streetmix-icons": "git://github.com/streetmix/icons.git#v0.4.2",
